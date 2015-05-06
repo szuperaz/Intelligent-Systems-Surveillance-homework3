@@ -1,0 +1,536 @@
+﻿A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.1.7600.16385
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény visszagörgetése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+Kivétel történt a telepítő (System.Management.Instrumentation.WMIManagementInstaller) visszagörgetési fázisában.
+System.ArgumentNullException: Az érték nem lehet NULL.
+Paraméter neve: path
+Kivétel történt a telepítés visszagörgetési fázisában. A rendszer nem veszi figyelembe a kivételt, és a visszagörgetés folytatódik. Lehetséges azonban, hogy a számítógép a visszagörgetés befejezése után nem tudja a kezdeti állapotot visszaállítani.
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény visszagörgetése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+Kivétel történt a telepítő (System.Management.Instrumentation.WMIManagementInstaller) visszagörgetési fázisában.
+System.ArgumentNullException: Az érték nem lehet NULL.
+Paraméter neve: path
+Kivétel történt a telepítés visszagörgetési fázisában. A rendszer nem veszi figyelembe a kivételt, és a visszagörgetés folytatódik. Lehetséges azonban, hogy a számítógép a visszagörgetés befejezése után nem tudja a kezdeti állapotot visszaállítani.
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény visszagörgetése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+Kivétel történt a telepítő (System.Management.Instrumentation.WMIManagementInstaller) visszagörgetési fázisában.
+System.ArgumentNullException: Az érték nem lehet NULL.
+Paraméter neve: path
+Kivétel történt a telepítés visszagörgetési fázisában. A rendszer nem veszi figyelembe a kivételt, és a visszagörgetés folytatódik. Lehetséges azonban, hogy a számítógép a visszagörgetés befejezése után nem tudja a kezdeti állapotot visszaállítani.
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény visszagörgetése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+Kivétel történt a telepítő (System.Management.Instrumentation.WMIManagementInstaller) visszagörgetési fázisában.
+System.ArgumentNullException: Az érték nem lehet NULL.
+Paraméter neve: path
+Kivétel történt a telepítés visszagörgetési fázisában. A rendszer nem veszi figyelembe a kivételt, és a visszagörgetés folytatódik. Lehetséges azonban, hogy a számítógép a visszagörgetés befejezése után nem tudja a kezdeti állapotot visszaállítani.
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény visszagörgetése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+Kivétel történt a telepítő (System.Management.Instrumentation.WMIManagementInstaller) visszagörgetési fázisában.
+System.ArgumentNullException: Az érték nem lehet NULL.
+Paraméter neve: path
+Kivétel történt a telepítés visszagörgetési fázisában. A rendszer nem veszi figyelembe a kivételt, és a visszagörgetés folytatódik. Lehetséges azonban, hogy a számítógép a visszagörgetés befejezése után nem tudja a kezdeti állapotot visszaállítani.
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény visszagörgetése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+Kivétel történt a telepítő (System.Management.Instrumentation.WMIManagementInstaller) visszagörgetési fázisában.
+System.ArgumentNullException: Az érték nem lehet NULL.
+Paraméter neve: path
+Kivétel történt a telepítés visszagörgetési fázisában. A rendszer nem veszi figyelembe a kivételt, és a visszagörgetés folytatódik. Lehetséges azonban, hogy a számítógép a visszagörgetés befejezése után nem tudja a kezdeti állapotot visszaállítani.
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény visszagörgetése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+Kivétel történt a telepítő (System.Management.Instrumentation.WMIManagementInstaller) visszagörgetési fázisában.
+System.ArgumentNullException: Az érték nem lehet NULL.
+Paraméter neve: path
+Kivétel történt a telepítés visszagörgetési fázisában. A rendszer nem veszi figyelembe a kivételt, és a visszagörgetés folytatódik. Lehetséges azonban, hogy a számítógép a visszagörgetés befejezése után nem tudja a kezdeti állapotot visszaállítani.
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény visszagörgetése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+Kivétel történt a telepítő (System.Management.Instrumentation.WMIManagementInstaller) visszagörgetési fázisában.
+System.ArgumentNullException: Az érték nem lehet NULL.
+Paraméter neve: path
+Kivétel történt a telepítés visszagörgetési fázisában. A rendszer nem veszi figyelembe a kivételt, és a visszagörgetés folytatódik. Lehetséges azonban, hogy a számítógép a visszagörgetés befejezése után nem tudja a kezdeti állapotot visszaállítani.
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény visszagörgetése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+Kivétel történt a telepítő (System.Management.Instrumentation.WMIManagementInstaller) visszagörgetési fázisában.
+System.ArgumentNullException: Az érték nem lehet NULL.
+Paraméter neve: path
+Kivétel történt a telepítés visszagörgetési fázisában. A rendszer nem veszi figyelembe a kivételt, és a visszagörgetés folytatódik. Lehetséges azonban, hogy a számítógép a visszagörgetés befejezése után nem tudja a kezdeti állapotot visszaállítani.
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény visszagörgetése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+Kivétel történt a telepítő (System.Management.Instrumentation.WMIManagementInstaller) visszagörgetési fázisában.
+System.ArgumentNullException: Az érték nem lehet NULL.
+Paraméter neve: path
+Kivétel történt a telepítés visszagörgetési fázisában. A rendszer nem veszi figyelembe a kivételt, és a visszagörgetés folytatódik. Lehetséges azonban, hogy a számítógép a visszagörgetés befejezése után nem tudja a kezdeti állapotot visszaállítani.
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének kezdete ****
+**** WMI-séma telepítésének vége ****
+A(z) „C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.InstallLog
+   assemblypath = C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+Microsoft (R) MOF Compiler Version 6.2.9200.16398
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\IRFHotels_v4.0.30319.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+

@@ -1,0 +1,5 @@
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels.HotelClient\bin\Debug\IRFHotels.HotelClient.exe.config
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels.HotelClient\bin\Debug\IRFHotels.HotelClient.exe
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels.HotelClient\bin\Debug\IRFHotels.HotelClient.pdb
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels.HotelClient\obj\Debug\IRFHotels.HotelClient.exe
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels.HotelClient\obj\Debug\IRFHotels.HotelClient.pdb

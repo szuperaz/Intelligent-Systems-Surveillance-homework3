@@ -1,0 +1,45 @@
+--- oldDataManager.cs	2015-04-13 17:55:00.000000000 +0200
++++ DataManager.cs	2015-04-25 18:50:46.000000000 +0200
+@@ -111,11 +111,41 @@
+             var conn = new SQLiteConnection(CONNSTRING);
+             conn.Open();
+ 
+-            var q = "DELETE FROM hotel WHERE id = " + hotel;
++            var q = "DELETE FROM hotels WHERE id = " + hotel;
+             SQLiteCommand cmd = new SQLiteCommand(q, conn);
+             cmd.ExecuteNonQuery();
+ 
+             conn.Close();
+         }
++
++        /// <summary>
++        /// Counts hotels in database
++        /// </summary>
++        public static long CountHotels()
++        {
++            var conn = new SQLiteConnection(CONNSTRING);
++            conn.Open();
++
++            var q = "SELECT COUNT(*) FROM hotels";
++            SQLiteCommand cmd = new SQLiteCommand(q, conn);
++
++            long res = (long)cmd.ExecuteScalar();
++
++            return res;
++        }
++
++        public static void ClearData()
++        {
++            var conn = new SQLiteConnection(CONNSTRING);
++            conn.Open();
++
++            var q = "DELETE FROM hotels";
++            SQLiteCommand cmd = new SQLiteCommand(q, conn);
++
++            cmd.ExecuteNonQuery();
++
++            return;
++        }
++        
+     }
+ }

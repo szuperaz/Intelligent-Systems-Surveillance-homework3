@@ -1,0 +1,17 @@
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe.config
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.exe
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\IRFHotels.pdb
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\EntityFramework.dll
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\NuGet.exe
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\System.Data.SQLite.dll
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\EntityFramework.xml
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\bin\Debug\System.Data.SQLite.xml
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\obj\Debug\IRFHotels.csprojResolveAssemblyReference.cache
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\obj\Debug\IRFHotels.exe
+C:\Users\AMD\Desktop\Zita\IRFHotels\src\IRFHotels\obj\Debug\IRFHotels.pdb
